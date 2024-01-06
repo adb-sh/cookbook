@@ -18,7 +18,7 @@ const site = lume({
 });
 
 site
-  // .use(netlifyCMS())
+  .use(netlifyCMS())
   .use(jsx_preact())
   .use(mdx())
   .use(pagefind())
@@ -40,7 +40,7 @@ site
         },
         plugins: [daisyui],
         daisyui: {
-          themes: ["retro", "coffee"],
+          themes: ["retro"],
         },
       },
     })
