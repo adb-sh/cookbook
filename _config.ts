@@ -14,7 +14,7 @@ import daisyui from "npm:daisyui";
 
 const site = lume({
   src: "./src",
-  location: new URL("https://turingev.de/"),
+  location: new URL("https://cookbook.albans.world/"),
 });
 
 site
@@ -49,7 +49,7 @@ site
   //.use(minify_html())
   .use(
     feed({
-      title: "Turing e.V.",
+      title: "Red and Blue recepies",
       output: ["/feed.rss", "/feed.json"],
       query: "blog=true",
       sort: "date=desc",

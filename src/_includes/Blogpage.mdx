@@ -14,11 +14,11 @@ title: Blog
 </div>
 
 <nav>
-  <ul class="pagination">
+  <ul class="pagination join">
     {page.data.pagination.previous ? (
       <li class="page-item">
         <a
-          class="page-link btn btn-secondary"
+          class="page-link btn btn-secondary join-item"
           href={`/blog/${page.data.pagination.previous}`}
         >
           &laquo;
@@ -26,12 +26,12 @@ title: Blog
       </li>
     ) : (
       <li class="page-item">
-        <a class="page-link btn btn-secondary disabled">&laquo;</a>
+        <a class="page-link btn btn-secondary join-item">&laquo;</a>
       </li>
     )}
     {new Array(page.data.pagination.totalPages).fill().map((_, index) => (
       <li class="page-item">
-        <a class="page-link btn btn-secondary" href={`/blog/page/${index + 1}`}>
+        <a class="page-link btn btn-secondary join-item" href={`/blog/page/${index + 1}`}>
           {index + 1}
         </a>
       </li>
@@ -39,7 +39,7 @@ title: Blog
     {page.data.pagination.next ? (
       <li class="page-item">
         <a
-          class="page-link btn btn-secondary"
+          class="page-link btn btn-secondary join-item"
           href={`/blog/${page.data.pagination.next}`}
         >
           &raquo;
@@ -47,7 +47,7 @@ title: Blog
       </li>
     ) : (
       <li class="page-item">
-        <a class="page-link btn btn-secondary disabled">&raquo;</a>
+        <a class="page-link btn btn-secondary join-item">&raquo;</a>
       </li>
     )}
   </ul>

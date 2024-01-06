@@ -3,7 +3,7 @@ layout: Default.tsx
 tags:
   - blog
 title: Avocado Spaghetti
-date: 2023-06-16T14:00:00.000Z
+date: 2024-01-06T14:00:00.000Z
 blog: true
 excerpt: spaghetti with avocado
 ---

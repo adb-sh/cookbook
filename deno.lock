@@ -429,56 +429,7 @@
     "https://deno.land/x/xml@2.1.1/utils/streamable.ts": "1603a5f10c859b95d4e9502365a0fba0b19d5d068356e20d5a6813cd37fee780",
     "https://deno.land/x/xml@2.1.1/utils/stringifier.ts": "c701b506835237c0c6c0a08fd94e0a012b644def3f4c819c64788daf2e649ea3",
     "https://deno.land/x/xml@2.1.1/utils/types.ts": "ecaf7785e54a6f1da6f8e56da2bce9853407ceb7d5b3b70f0a60a0890151fe4c",
-    "https://esm.sh/daisyui@4.5.0": "b7efb8eea1dfdc5ce4741c9343a238c52faeead7c64d3b0df5c3b9be77ae5bae",
     "https://esm.sh/twind@0.16.19/colors": "d2b3ca47b6c21a5a5d05397b4d0bff59a130bbb0242b7d84a120a3b6cba6cbfc",
-    "https://esm.sh/v135/camelcase-css@2.0.1/denonext/camelcase-css.mjs": "33a527694ad2ea66a9dc7cb6ba2890e2663ff68bf90bb6e69cd1040c666ba2b9",
-    "https://esm.sh/v135/css-selector-tokenizer@0.8.0/denonext/css-selector-tokenizer.mjs": "0b1e30766e2e2c163bc3678ac4c706a4c7cba47b3bc27343983b9ca58224527a",
-    "https://esm.sh/v135/cssesc@3.0.0/denonext/cssesc.mjs": "8e1441106b9e0d6a2b1c5f012f9f22962fbd8661490c06e7d0f602dd2b65864f",
-    "https://esm.sh/v135/culori@3.3.0/denonext/require.js": "b70f8b9854428495b08642d8d7cfd86f09b88fb54647c5c7047b8f04bac4c5cf",
-    "https://esm.sh/v135/daisyui@4.5.0/denonext/daisyui.mjs": "c6fcf65b96a257c6b7bbe454d0f76d9cff6714b182c498510dfa0e404a0adaa8",
-    "https://esm.sh/v135/daisyui@4.5.0/src/index.d.ts": "2a7dda0edfcfd15b9c3fb0567e06089640b6fa571c39ab3768aea910bd59960a",
-    "https://esm.sh/v135/fastparse@1.1.2/denonext/fastparse.mjs": "f20830a590fae468e49ad9d23584880e4f7494a530d5fba01d64bbe073fa2da7",
-    "https://esm.sh/v135/nanoid@3.3.7/denonext/non-secure.js": "04f910c9045422af11c2760899978492d745d6b13e5d9f08040c13b658c27ee0",
-    "https://esm.sh/v135/picocolors@1.0.0/denonext/picocolors.mjs": "5d53d745955947dce84f82222cfd00fd021239fcbe9336c6bbfe34ed2f40886c",
-    "https://esm.sh/v135/postcss-js@4.0.1/denonext/async.js": "8c1451c88fb77451ea4da16da9421b42f9efd5e556170890d27ef00407388a36",
-    "https://esm.sh/v135/postcss-js@4.0.1/denonext/objectifier.js": "5c3d765fb4b928f55e7e70d6ed1c7f97a936f7efbec73e12131f2552152fb15f",
-    "https://esm.sh/v135/postcss-js@4.0.1/denonext/parser.js": "d15990c187bc0c70cbb696ef9fc1879f59576342e78636b8fcc07c4c1e7a260c",
-    "https://esm.sh/v135/postcss-js@4.0.1/denonext/postcss-js.mjs": "fffd52be6492413e46abb5b162d1bdaf56f4da46f04748b118ce5dc31771a8d7",
-    "https://esm.sh/v135/postcss-js@4.0.1/denonext/process-result.js": "207078bed769aae1cf812763b366956e6b957ef6478271712c9fee472c168ede",
-    "https://esm.sh/v135/postcss-js@4.0.1/denonext/sync.js": "47d4ad46eb9d6e8e9aa80ec7b9580c52ec65fe0288fc79ecadfa0c7bff2600e2",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/at-rule.js": "4cd3a53a67b972be9712e9af2492b2eadd32cbbeda6310a909e34d984bcda048",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/comment.js": "6224f5617fbcfb90ee0a14a07951258c2cacb8b918bd9210c9950e617f0daaa8",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/container.js": "128ef5a47586593b71b52c4499920b384a1fa73df9bbd14c8ff1946fc440a783",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/css-syntax-error.js": "81e3ca71ff833022a56aa7b4de2c5995999f33465a209390e6b28b7611582d41",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/declaration.js": "d8ed2e3f54f9970cdc66c139481cd52961708dd7202cfdb409bf5f1c5b4ffb83",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/fromJSON.js": "f08d5cd84c4840a726cbc2fc149253864dafe69ff2991fa0c6fa3490c5c8fd70",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/input.js": "5776098707b39daca45565699c1d1ecd700c415ca863c7ebef7d402619c7f9c0",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/lazy-result.js": "5e2c5cbe211148ecd272f5900fc4189317c74acf3570ff12b307a31716069536",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/list.js": "9ee1a8ca4cb42b87372db1fc6549fff29916564f8c07bf52870a84d2b91c6553",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/map-generator.js": "1d25d7e1f7c98e583a7525966ff00065aa0f2cfc78e760fccdb1dbf632746004",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/no-work-result.js": "a7e85149a2a58cdb8d24928f37da2c1fe7a7812466cf03b1ef3ad34ee66c60e7",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/node.js": "fb129d1023b2c428f9fe10626ce345508eaeca84def469b7ff025a14932fc14b",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/parse.js": "6f2f0301c1b6171f930973e93eae429a7c7355e9a73b608548e38a0a58669167",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/parser.js": "09074eefec15c6849794c51f0bea2af7f37f8c64dd2a210831f0d9047d73129c",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/postcss.js": "e3455363a90f50b2fb40ef356772e408a924692d363dca03ac676fd7dd786391",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/previous-map.js": "22332c5d21d8a3c56df08f6ed46ea0c2034ec9d2a3ca8e85d28c2b7ec3875e05",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/processor.js": "583f9dee08e160a160f14f60c98733ba4c187de9a3192fe2f0a04ffe35b09e95",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/result.js": "c40d7a814c0c95f250bcc5eb1f94110c016e7ff7dae1e25ffdc298520ba1a0c5",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/root.js": "c211a1310bfcf0a7e202a68d0bf79125ac472a5a4f3b6b1d9fb17805c1323550",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/rule.js": "4316a023cfaa889a2ec21e5a6129ce0e3639936f578c44909d3dc537aaf11be4",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/stringifier.js": "ee4c8dff2c1e67ea351bc003563f15cbfaaa1a5d079eda31dfb8b7d23fd7ca19",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/stringify.js": "c99df0b7406b7a1c63909c855959255d5ecef31967a0eb09ae08cf84737b6d61",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/symbols.js": "21d641931343fff9437a1bd720a7df9e60d7f599b2ba269c98a1e741071f495c",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/terminal-highlight.js": "5f215fde89517b9e37963ed10c31962a0f3331bc6d7da6ec61d1305d86aee9f2",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/tokenize.js": "c73b6614aa8e3afd00130d76bb989d9c3211f225c9e9e6a8c326b0952d05d4b6",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/warn-once.js": "3f6117216f9e1c8935cb05ee84459bf10debfaaf5ecbe517c43d3c1c31aa0b2f",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/lib/warning.js": "af11340817cce38f4b02f93cadb4c77b0142c69565f07ee86e13ba8948ebeb16",
-    "https://esm.sh/v135/postcss@8.4.31/denonext/postcss.mjs": "17cb1bfa8d463c1e35ed187969d937c4a2c880508dcaf00f15db9277ffc4becd",
-    "https://esm.sh/v135/source-map-js@1.0.2/denonext/source-map-js.mjs": "81ed2d1f28bd08a762f6819d5b366285a1bacf4b5c3757d866c79e4950529bfd",
-    "https://esm.sh/v135/tailwindcss@3.4.0/plugin~.d.ts": "3384159c733b5ccccd56c517251f5e3ff657fb50e2caf1597f88ea31be84e298",
-    "https://esm.sh/v135/tailwindcss@3.4.0/types/config.d.ts": "906f4be7aff3f1dfda2bb098066361532cbfed107d973049652c7baf610dba6b",
-    "https://esm.sh/v135/tailwindcss@3.4.0/types/generated/colors.d.ts": "01374379f82be05d25c08d2f30779fa4a4c41895a18b93b33f14aeef51768692",
-    "https://esm.sh/v135/tailwindcss@3.4.0/types/generated/corePluginList.d.ts": "674fc01fdc54b05c161c73511453b6a3d70bdcf0cd0d62f482f2d1f966657812",
     "https://esm.sh/v135/twind@0.16.19/colors/colors.d.ts": "5d718e9e958b108054073182c3a6b3a8c8352b4c9b2c520a15bdb56bac56868f",
     "https://esm.sh/v135/twind@0.16.19/denonext/colors.js": "83f03464068ed76b7200bce6fab29376421ab5506622a3fa70a459a4e093e837",
     "https://wilsonl.in/minify-html/deno/0.10.3/index.js": "c8124516a6369ef9293473143d462b1592cf19aa25b110abd27d3cbb40124030"
@@ -517,10 +468,10 @@
         "integrity": "sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==",
         "dependencies": {}
       },
-      "@babel/runtime@7.23.1": {
-        "integrity": "sha512-hC2v6p8ZSI/W0HUzh3V8C5g+NwSKzKPtJwSpTjwl0o297GP9+ZLQSkdvHz46CM3LqyoXxq+5G9komY+eSqSO0g==",
+      "@babel/runtime@7.23.7": {
+        "integrity": "sha512-w06OXVOFso7LcbzMiDGt+3X7Rh7Ho8MmgPoWU3rarH+8upf+wSU/grlGbWzQyr3DkdN6ZeuMFjpdwW0Q+HxobA==",
         "dependencies": {
-          "regenerator-runtime": "regenerator-runtime@0.14.0"
+          "regenerator-runtime": "regenerator-runtime@0.14.1"
         }
       },
       "@csstools/selector-specificity@2.2.0_postcss-selector-parser@6.0.15": {
@@ -859,7 +810,7 @@
       "date-fns@2.30.0": {
         "integrity": "sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw==",
         "dependencies": {
-          "@babel/runtime": "@babel/runtime@7.23.1"
+          "@babel/runtime": "@babel/runtime@7.23.7"
         }
       },
       "debug@4.3.4": {
@@ -2040,8 +1991,8 @@
           "picomatch": "picomatch@2.3.1"
         }
       },
-      "regenerator-runtime@0.14.0": {
-        "integrity": "sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA==",
+      "regenerator-runtime@0.14.1": {
+        "integrity": "sha512-dYnhHh0nJoMfnkZs6GmmhFknAGRrLznOu5nc9ML+EJxGvrx6H7teuevqVqCuPcPK//3eDrrjQhehXVx9cnkGdw==",
         "dependencies": {}
       },
       "rehype-raw@6.1.1": {
