@@ -12,7 +12,7 @@ export default ({ page }) => (
         })}
       </span>
     </div>
-    <div class="card xl:flex border-solid border border-neutral-600 dark:border-neutral no-underline">
+    <div class="rounded overflow-hidden xl:flex border-solid border border-neutral-600 dark:border-neutral no-underline">
       {page.data.imgUrl
         ? (
           <img

@@ -93,6 +93,9 @@ header {
       margin: 0 1rem;
     }
   }
+  table {
+    @apply table;
+  }
 
   h1,
   h2,

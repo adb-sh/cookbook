@@ -18,7 +18,7 @@ const site = lume({
 });
 
 site
-  .use(netlifyCMS())
+  // .use(netlifyCMS())
   .use(jsx_preact())
   .use(mdx())
   .use(pagefind())
