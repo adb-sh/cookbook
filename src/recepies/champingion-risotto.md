@@ -3,13 +3,15 @@ layout: Default.tsx
 tags:
   - blog
 title: Champingion Risotto
-# imgUrl: /media/images/
+imgUrl: /media/images/champingion-risotto.jpg
 date: 2024-01-20T14:00:00.000Z
 blog: true
 excerpt: Risottoreis mit Champinions und Weisswein
 ---
 
 # Champingion Risotto
+
+![champingion risotto](/media/images/champingion-risotto.jpg)
 
 ## Zutaten:
 
